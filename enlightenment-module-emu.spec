@@ -32,9 +32,10 @@ Requires:	enlightenmentDR17
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
-Engage is a rss displayer based on the Enlightenment Foundation
-Libraries. It currently works as an app-launcher, taskbar and a system
-tray.
+Enlightenment DR17 module: %{_module_name}.
+
+%description -l pl
+Modu³ Enlightenmenta DR17: %{_module_name}.
 
 %prep
 %setup -q -n %{_module_name}
