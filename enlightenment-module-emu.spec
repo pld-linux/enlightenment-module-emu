@@ -2,7 +2,7 @@
 %define		_module_name	emu
 %define		_snap	20060610
 Summary:	Enlightenment DR17 module: %{_module_name}
-Summary(pl.UTF-8):   Moduł Enlightenmenta DR17: %{_module_name}
+Summary(pl.UTF-8):	Moduł Enlightenmenta DR17: %{_module_name}
 Name:		enlightenment-module-%{_module_name}
 Version:	2006.01.27
 Release:	0.%{_snap}.0.1
